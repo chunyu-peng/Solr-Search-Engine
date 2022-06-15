@@ -1,0 +1,36 @@
+Name: Chunyu Peng
+USC ID: 3745895256
+News site crawled: foxnews.com
+Number of threads: 20
+
+Fetch Statistics
+================
+# fetches attempted: 19967
+# fetches succeeded: 19869
+# fetches failed or aborted: 98
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2626259
+# unique URLs extracted: 1296287
+# unique URLs within News Site: 111977
+# unique URLs outside News Site: 1184310
+
+Status Codes:
+=============
+200 OK: 19869
+301 Moved Permanently: 52
+404 Not Found: 46
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 14599
+100KB ~ <1MB: 1543
+>= 1MB: 12
+
+Content Types:
+==============
+application/pdf: 1
+text/html: 16153

@@ -1,0 +1,5 @@
+The search engine I use is Ask. Compared with Google over all queries, the average percent overlap is 32.2% and the average Spearman coefficient is -7.04602381.
+The overlapping rate is not high, so results of these two search engines are mostly distinct from each other.
+The coefficient is negative, which means the rank results of Ask is dissimilar to the rank of Google.
+Therefore, these two search engines did apply different searching algorithms.
+I will say Google is better than Ask, as Google ranks its search results by popularity, and popular results are what I need for most of times.
