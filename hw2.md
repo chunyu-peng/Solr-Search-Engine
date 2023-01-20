@@ -1,6 +1,6 @@
 #### 1.  Write up Example code to demonstrate the three foundmental concepts of OOP. (reference Code Demo 
 repo as example)
-'''
+```
 // Encapsulation
 public class Employees {
     private String Name;
@@ -23,8 +23,8 @@ public class Employees {
         return age;
     }
 }
-'''
-'''
+```
+```
 // Polymorphism
 public class Solution {
     public static void main(String[] args) {
@@ -32,8 +32,8 @@ public class Solution {
         emp.setAge(26);
     }
 }
-'''
-'''
+```
+```
 // Inheritance
 public class SDE extends Employees {
     private int salary;
@@ -51,7 +51,7 @@ public class SDE extends Employees {
         return salary;
     }
 }
-'''
+```
 
 #### 2.  What is wrapper class in Java and Why we need wrapper class? 
     Wrapper class provides a way to use primitive data types as object.
